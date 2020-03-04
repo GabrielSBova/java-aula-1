@@ -14,7 +14,7 @@ public class Exemplo {
         System.out.print("Digite seu nome: ");
         nome = teclado.nextLine();
 
-        System.out.print("Dogote sua nota: ");
+        System.out.print("Digite sua nota: ");
         nota = teclado.nextFloat();
 
         System.out.print("Seu nome é " + nome + "\n");
